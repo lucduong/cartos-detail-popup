@@ -1,0 +1,22 @@
+.cargo-popup {
+
+}
+
+.cargo-popup table {
+
+}
+
+.cargo-popup table tr td:first-child {
+    color: #fffc38;
+    text-align: right;
+    padding-right: 5px;
+}
+.cargo-popup table tr td:last-child {
+    color: #ffffff;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.cargo-popup table tr {
+    line-height: 1.5em;
+}
