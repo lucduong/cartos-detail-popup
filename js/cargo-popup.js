@@ -139,19 +139,19 @@
      * Just show the popup without animation
      *
      */
-    $.fn.show = function () {
+    /*$.fn.show = function () {
         $panelWrapper.addClass('open');
         $panelWrapper.removeClass('hide');
-    };
+    };*/
 
     /**
      * Just hide the popup without animation
      *
      */
-    $.fn.hide = function () {
+    /*$.fn.hide = function () {
         $panelWrapper.addClass('hide');
         $panelWrapper.removeClass('open');
-    };
+    };*/
 
     /**
      * Show or hide popup with animation
